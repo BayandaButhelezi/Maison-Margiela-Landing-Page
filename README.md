@@ -5,7 +5,7 @@
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Repo](https://github.com/BayandaButhelezi/<project-name> "<project-name> Repo")
 
 - [Live](<https://maisonmargielalandingpage.netlify.app/> "Live View")
 
