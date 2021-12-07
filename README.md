@@ -1,7 +1,7 @@
 # Maison-Margiela-Landing-Page
 
 
-<p align="center">A Re-imagined version of the Maison Margiela landind page</p>
+<p align="center">A Re-imagined version of the Maison Margiela landing page</p>
 
 ## Links
 
@@ -10,9 +10,9 @@
 - [Live](<https://maisonmargielalandingpage.netlify.app/> "Live View")
 
 ## Screenshots
+<img width="960" alt="Maison Margiela" src="https://user-images.githubusercontent.com/77545474/144984242-53ed4e73-b48d-4655-9bf8-157f4fa7712c.png">
 
-![Home Page](Assets/Maison Margiela.PNG)
-
+Built wih:
 - HTML
 - CSS
 
