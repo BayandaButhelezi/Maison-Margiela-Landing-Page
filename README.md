@@ -1,22 +1,17 @@
 # Maison-Margiela-Landing-Page
 
-<h1 align="center"><project-name></h1>
 
-<p align="center"><project-description></p>
+<p align="center">A Re-imagined version of the Maison Margiela landind page</p>
 
 ## Links
 
 - [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
 
-- [Live](<Homepage url> "Live View")
-
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
-
-- [API](<API Link> "API")
+- [Live](<https://maisonmargielalandingpage.netlify.app/> "Live View")
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](Assets//Maison Margiela.PNG "Home Page")
 
 - HTML
 - CSS
