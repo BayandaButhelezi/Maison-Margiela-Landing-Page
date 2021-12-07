@@ -11,7 +11,7 @@
 
 ## Screenshots
 
-![Home Page](Assets//Maison Margiela.PNG "Home Page")
+![Home Page](Assets/Maison Margiela.PNG)
 
 - HTML
 - CSS
